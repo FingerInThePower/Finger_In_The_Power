@@ -1,0 +1,20 @@
+instruction,importance, summary, isaset
+VPMAXUW,0.006842845318360056, Maximum of Packed Unsigned Integers, AVX
+VPCMPISTRI,0.006207837000127849, Packed Compare Implicit Length Strings Return Index, AVX
+VPBROADCASTW,0.006044426940925451, Load with Broadcast Integer Data from General Purpose Register, AVX2
+VPMAXSD,0.0059834025380433985, Maximum of Packed Signed Integers, AVX
+PMOVSXBQ,0.005762329757962125, Packed Move with Sign Extend, SSE4
+VPSUBSB,0.005716658937578163, Subtract Packed Signed Integers with Signed Saturation, AVX
+PMINUD,0.0056723853872433, Minimum of Packed Unsigned Integers, SSE4
+VPMINSB,0.005608347107035949, Minimum of Packed Signed Integers, AVX
+VPINSRB,0.005538498232048727, Insert Byte/Dword/Qword, AVX
+VROUNDSS,0.005502650501494101,Round Scalar Single Precision Floating-Point Values, AVX
+VPMULHRSW,0.005487112938762483, Packed Multiply High with Round and Scale, AVX
+VPMULDQ,0.00525883181884323, Multiply Packed Doubleword Integers, AVX
+VPMAXUD,0.005256561295293866, Maximum of Packed Unsigned Integers, AVX
+VPERMILPD,0.0052093339675503905, Permute In-Lane of Pairs of Double-Precision Floating-Point Values, AVX
+VPCMPEQD,0.00514692813418667, Compare Packed Data for Equal, AVX
+LEA,0.005087769729895524, Load Effective Address, I86
+PMOVSXBW,0.0048365046000973305,Packed Move with Sign Extend, SSE4
+VPBLENDW,0.004822058866237995, Blend Packed Words, AVX
+VPSRAW,0.004716256732670945, Shift Packed Data Right Arithmetic, AVX

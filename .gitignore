@@ -1,0 +1,6 @@
+ccgrid/*.json
+results
+results_(*)
+env
+__pycache__
+.vscode
