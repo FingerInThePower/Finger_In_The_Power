@@ -69,4 +69,4 @@ bash go.sh all \\all stands for the entire webAssembly instruction set available
 ```
 
 # Acknowledgement
-Some code from this repository, mainly the native component, are based on Gras et al code, available [here](add later)
+Some code from this repository, mainly the native component, are based on Gras et al code, available [here](https://github.com/vusec/absynthe)
