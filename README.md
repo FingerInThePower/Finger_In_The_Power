@@ -68,5 +68,12 @@ Portable
 bash go.sh all \\all stands for the entire webAssembly instruction set available for power measuring. 
 ```
 
+# Classification Notebook
+Classification using our method on real data can be viewed using the interactive Python notebook:
+https://colab.research.google.com/github/FingerInThePower/Finger_In_The_Power/blob/master/finger_in_the_power_classification.ipynb
+
+The raw data is downloaded from:
+https://drive.google.com/file/d/1RR4VvIQ6jiBneVuPXwdq1E5FK8USI_-U/view?usp=share_link
+
 # Acknowledgement
 Some code from this repository, mainly the native component, are based on Gras et al code, available [here](https://github.com/vusec/absynthe)
