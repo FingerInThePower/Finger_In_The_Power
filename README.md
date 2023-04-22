@@ -82,5 +82,8 @@ summary and the associated instruction set family.
 
 The significance of each instruction used is listed in decreasing order along with its importance score in the raw instructions importance data, which can be found at [native_raw_importance_per_instruction.csv](https://github.com/FingerInThePower/Finger_In_The_Power/blob/main/most_helpful_instructions/native_raw_importance_per_instruction.csv) for native and  [web_asm_raw_importance_per_instruction.csv](https://github.com/FingerInThePower/Finger_In_The_Power/blob/main/most_helpful_instructions/web_asm_raw_importance_per_instruction.csv) for WebAssembly.
 
+# For More Information
+Please see the paper's [official webpage](https://orenlab.sise.bgu.ac.il/p/FingerInThePower)
+
 # Acknowledgement
 Some code from this repository, mainly the native component, are based on Gras et al code, available [here](https://github.com/vusec/absynthe)
